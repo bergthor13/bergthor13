@@ -1,6 +1,6 @@
 ## Halló. Ég heiti Bergþór. 👋 Það gleður mig að kynnast þér 😃
 
-Nú á dögum skiptir ásýnd fyrirtækja í stafrænum heimi miklu máli. Ég brenn fyrir því að þróa hugbúnaðarlausnir sem hjálpa fólki í daglegu lífi, einfaldar þeirra störf og gerir lífið örlítið skemmtilegra.
+Nú á dögum skiptir ásýnd fyrirtækja í stafrænum heimi miklu máli. Ég brenn fyrir því að þróa hugbúnaðarlausnir sem hjálpa fólki í daglegu lífi, einfalda þeirra störf sem gera lífið örlítið skemmtilegra.
 
 Ég er skapandi og hugmyndaríkur einstaklingur sem tekur vel eftir smáatriðum og er mikill fullkomnunarsinni. 
 
