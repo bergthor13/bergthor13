@@ -7,13 +7,22 @@ Nú á dögum skiptir ásýnd fyrirtækja í stafrænum heimi miklu máli. Ég b
 ---
 
 ### Hvað er ég að bralla í dag?
-- 🔭 Núna er ég að vinna í React og React Native verkefnum í vinnunni. Einnig hef ég umsjón með tölvukerfum.
+- 🔭 Núna er ég að vinna í Next.js, React Native, Node.js, PHP og SQL verkefnum í vinnunni. Einnig hef ég umsjón með tölvukerfum.
 
 ---
 
 ### Hvað hef ég gert?
+#### laufid.is
+Ég hef séð um forritun á fyrstu grænu upplýsingaveitunni á Íslandi, laufid.is.
+
+#### Símkerfi 1819
+Ég sá um innleiðingu nýs símkerfis fyrir 1819 og forritun viðmóts til að einfalda starfsfólki að svara fyrirspurnum hratt og örugglega.
+
+#### 1819.is
+Ég sé um forritun á nýrri vefsíðu 1819.is sem fór í loftið í lok janúar 2022.
+
 #### 🎟 1819 Torgið
-Ég sé um hugmyndavinnu, þróun og forritun á appinu 1819 Torgið, sem kom út í júní 2021 fyrir iOS og Android. Appið er skrifað í React Native. [Sæktu appið hér!](https://www.onelink.to/1819torgid)
+Ég sé um þróun og forritun á appinu 1819 Torgið, sem kom út í júní 2021 fyrir iOS og Android. Appið er skrifað í React Native. [Sæktu appið hér!](https://www.onelink.to/1819torgid)
 
 Einnig sé ég um síðuna [www.1819torgid.is](https://www.1819torgid.is/)
 
